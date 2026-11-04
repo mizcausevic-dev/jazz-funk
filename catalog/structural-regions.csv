@@ -1,0 +1,17 @@
+study_id,region,display_name,start_bar,bars,start_tick,end_tick
+jf01,introduction,Introduction,1,8,0,15360
+jf01,statement,Statement,9,8,15360,30720
+jf01,contrast,Contrast,17,8,30720,46080
+jf01,transformed_return,Transformed return,25,8,46080,61440
+jf02,introduction,Introduction,1,8,0,15360
+jf02,statement,Statement,9,8,15360,30720
+jf02,contrast,Contrast,17,8,30720,46080
+jf02,transformed_return,Transformed return,25,8,46080,61440
+jf03,introduction,Introduction,1,8,0,15360
+jf03,statement,Statement,9,8,15360,30720
+jf03,contrast,Contrast,17,8,30720,46080
+jf03,transformed_return,Transformed return,25,8,46080,61440
+jf04,introduction,Introduction,1,8,0,15360
+jf04,statement,Statement,9,8,15360,30720
+jf04,contrast,Contrast,17,8,30720,46080
+jf04,transformed_return,Transformed return,25,8,46080,61440

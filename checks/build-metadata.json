@@ -1,0 +1,11 @@
+{
+  "generator_version": "release-train-1.0.0",
+  "pack": "jazz-funk",
+  "source_builder_sha256": "06196196b6f5a4f8deb83b945619c6d8847d2439cac8636d376195b28ebe792f",
+  "commands": [
+    "python tools/build_release.py --pack jazz-funk",
+    "python tools/validate_release.py"
+  ],
+  "run_time_utc": "2026-11-04T17:04:18.759297+00:00",
+  "python": "3.14.0"
+}
