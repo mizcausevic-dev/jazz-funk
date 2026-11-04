@@ -1,0 +1,26 @@
+{
+  "title": "Jazz-Funk",
+  "study": "jf01",
+  "bpm": 108,
+  "source_audio": "preview/jazz-funk-simple-synth-preview.mp3",
+  "source_audio_sha256": "05de88ec9c0ac803baa0b94f457cfea6da3b1b494687ceeadff062d5238fbfa6",
+  "source_midi": "midi/jf01-side-pocket/jf01-side-pocket-combined.mid",
+  "source_midi_sha256": "d3563203f5f7d274aad5e01c21fbcb289704b5d6bf0b19bf35765913ae76c43c",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "e090d706729fa5159c62fb0fa20248259fd147fb2d0295f2a867aaa548cdae77",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "c2bccc048295d49e7c1c0ea922f97a962e3cc4c43db84f0cc1c02894bb73b1e5",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "39536868bd12f9ed4465e3dc80b47f1cccc422e426bce151d9360a7d09e773b5",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

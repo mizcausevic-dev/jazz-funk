@@ -7,6 +7,11 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 780,
+      "sha256": "cb6d2fa05370c44b2df0f840489cd1c457e85e8d9f436e9beb3d11e277ff584d"
+    },
+    {
       "path": "README.md",
       "bytes": 3134,
       "sha256": "19f1bdff656d20b2cbce1fb095e159d179421c2e65e8a9ecc022961c9ce2f3db"
@@ -87,9 +92,39 @@
       "sha256": "efe167b911028690a715a89beb0509027d59e502f1e2081069339163a487a09c"
     },
     {
+      "path": "film/motion-artwork.webp",
+      "bytes": 61086,
+      "sha256": "c2bccc048295d49e7c1c0ea922f97a962e3cc4c43db84f0cc1c02894bb73b1e5"
+    },
+    {
+      "path": "film/motion-manifest.json",
+      "bytes": 1181,
+      "sha256": "50eb24c841902e6b7c573cd7a40cb4f18ca5d28d7475a4f98d026ec7c5c15323"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2790,
+      "sha256": "cc13894289a2077bddc41f1dba3eb1b4899f50af6a46ef9bbbffef62bf77aee3"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 29097,
+      "sha256": "7833891fc78c6f354fea0f60127e9a6110058816dfe0b8617c93eca500068381"
+    },
+    {
+      "path": "film/motion-preview.mp4",
+      "bytes": 802522,
+      "sha256": "39536868bd12f9ed4465e3dc80b47f1cccc422e426bce151d9360a7d09e773b5"
+    },
+    {
+      "path": "film/motion-preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
       "path": "index.html",
-      "bytes": 8687,
-      "sha256": "3f6dc9af39a8588b237a9c8abe1a05e12d3ccbb70233fca9e1c080fcdd965c22"
+      "bytes": 9205,
+      "sha256": "0a2b61445bcd81fd0c1e13851e0bb1eb086d91f669c54461776a1e44c000eeb8"
     },
     {
       "path": "midi/jf01-side-pocket/chord_pulse.mid",
@@ -260,6 +295,11 @@
       "path": "tools/build_release.py",
       "bytes": 55043,
       "sha256": "bf66b15904a8ffe6d9106669edd6670cc41fa3640db30691cf431832fe1f8772"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
     },
     {
       "path": "tools/validate_release.py",
