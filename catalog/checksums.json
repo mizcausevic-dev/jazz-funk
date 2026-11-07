@@ -7,21 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 780,
-      "sha256": "cb6d2fa05370c44b2df0f840489cd1c457e85e8d9f436e9beb3d11e277ff584d"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3134,
-      "sha256": "19f1bdff656d20b2cbce1fb095e159d179421c2e65e8a9ecc022961c9ce2f3db"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -88,8 +73,8 @@
     },
     {
       "path": "downloads/jazz-funk-midi.zip",
-      "bytes": 26414,
-      "sha256": "efe167b911028690a715a89beb0509027d59e502f1e2081069339163a487a09c"
+      "bytes": 27401,
+      "sha256": "d92d50f6dcaf1814672665c0d5c1e169d7b05e52b5fa0257ce7f8c6d5b71bd2a"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -123,8 +108,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9205,
-      "sha256": "0a2b61445bcd81fd0c1e13851e0bb1eb086d91f669c54461776a1e44c000eeb8"
+      "bytes": 9395,
+      "sha256": "cd58cf1763490105b28db0f5e50924aa73c5a71525563e1379fc710bc757c586"
     },
     {
       "path": "midi/jf01-side-pocket/chord_pulse.mid",
@@ -267,6 +252,16 @@
       "sha256": "4110e432082db516bf8d587acfcb71c150b0144085cc554115fe8cc301108fcf"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 780,
+      "sha256": "cb6d2fa05370c44b2df0f840489cd1c457e85e8d9f436e9beb3d11e277ff584d"
+    },
+    {
       "path": "preview/jazz-funk-simple-synth-preview.mp3",
       "bytes": 1720364,
       "sha256": "05de88ec9c0ac803baa0b94f457cfea6da3b1b494687ceeadff062d5238fbfa6"
@@ -275,6 +270,16 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1122,
       "sha256": "925d35b2381a5aefa23437328ef542ee4a31e948ddc62b6c7189a258028b0863"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3249,
+      "sha256": "ab0ebdc3cdd308496d59b5b84d7c56604879be8a8d7273a255610b34dcb6be9a"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
